@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fb1bc2d-7ea1-4c36-a2ea-7550bedd31e9" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/builder/car/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/builder/car/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/builder/car/components/CarType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/builder/car/components/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/builder/car/components/GPSNavigator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/builder/car/components/Transmission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/builder/car/components/TripComputer.java" afterDir="false" />
-    </list>
+    <list default="true" id="2fb1bc2d-7ea1-4c36-a2ea-7550bedd31e9" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +43,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "develop",
     "last_opened_file_path": "/home/joao-victor/Desktop/develop/kotlin/AluraGames",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -127,6 +117,7 @@
       <workItem from="1697900894895" duration="6331000" />
       <workItem from="1697938241342" duration="2070000" />
       <workItem from="1698019406220" duration="736000" />
+      <workItem from="1698117489736" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
