@@ -1,0 +1,108 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"2fb1bc2d-7ea1-4c36-a2ea-7550bedd31e9\" name=\"Changes\" comment=\"first commit\">\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/Main.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/Main2.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/Singleton.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"SET_USER_NAME_GLOBALLY\" value=\"false\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 1\n}</component>\n  <component name=\"ProjectId\" id=\"2X4uu1xC1PVvt5wvgaVQshI7Ijp\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/joao-victor/Desktop/develop/kotlin/AluraGames&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RunManager\" selected=\"Application.br.com.bcndeveight.Exemples.Main\">\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"br.com.bcndeveight.Main\" />\n      <module name=\"DesignPatterns\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"br.com.bcndeveight.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Main2\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"br.com.bcndeveight.Exemples.Main2\" />\n      <module name=\"DesignPatterns\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"br.com.bcndeveight.Exemples.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"br.com.bcndeveight.Exemples.Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"br.com.bcndeveight.Exemples.Main\" />\n      <module name=\"DesignPatterns\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"br.com.bcndeveight.Exemples.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.br.com.bcndeveight.Exemples.Main\" />\n        <item itemvalue=\"Application.Main\" />\n        <item itemvalue=\"Application.Main2\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"2fb1bc2d-7ea1-4c36-a2ea-7550bedd31e9\" name=\"Changes\" comment=\"\" />\n      <created>1697900893586</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1697900893586</updated>\n      <workItem from=\"1697900894895\" duration=\"6331000\" />\n      <workItem from=\"1697938241342\" duration=\"2070000\" />\n      <workItem from=\"1698019406220\" duration=\"736000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"first commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1697901757632</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1697901757632</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"first commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"first commit\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7003cf076156ab581ad26d49145e981616d8b043)
++++ b/.idea/workspace.xml	(date 1698030762620)
+@@ -4,13 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2fb1bc2d-7ea1-4c36-a2ea-7550bedd31e9" name="Changes" comment="first commit">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/Main2.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bcndeveight/Exemples/Singleton.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="2fb1bc2d-7ea1-4c36-a2ea-7550bedd31e9" name="Changes" comment="finalizing singleton implementatiom exemple pattern" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -52,7 +46,7 @@
+     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Application.br.com.bcndeveight.Exemples.Main">
++  <component name="RunManager" selected="Application.br.com.bcndeveight.Exemples.singleton.Main">
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="br.com.bcndeveight.Main" />
+       <module name="DesignPatterns" />
+@@ -67,11 +61,11 @@
+       </method>
+     </configuration>
+     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="br.com.bcndeveight.Exemples.Main2" />
++      <option name="MAIN_CLASS_NAME" value="br.com.bcndeveight.Exemples.singleton.Main2" />
+       <module name="DesignPatterns" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="br.com.bcndeveight.Exemples.*" />
++          <option name="PATTERN" value="br.com.bcndeveight.Exemples.singleton.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -79,12 +73,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="br.com.bcndeveight.Exemples.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="br.com.bcndeveight.Exemples.Main" />
++    <configuration name="br.com.bcndeveight.Exemples.singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="br.com.bcndeveight.Exemples.singleton.Main" />
+       <module name="DesignPatterns" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="br.com.bcndeveight.Exemples.*" />
++          <option name="PATTERN" value="br.com.bcndeveight.Exemples.singleton.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -94,7 +88,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.br.com.bcndeveight.Exemples.Main" />
++        <item itemvalue="Application.br.com.bcndeveight.Exemples.singleton.Main" />
+         <item itemvalue="Application.Main" />
+         <item itemvalue="Application.Main2" />
+       </list>
+@@ -111,6 +105,7 @@
+       <workItem from="1697900894895" duration="6331000" />
+       <workItem from="1697938241342" duration="2070000" />
+       <workItem from="1698019406220" duration="736000" />
++      <workItem from="1698027447747" duration="1589000" />
+     </task>
+     <task id="LOCAL-00001" summary="first commit">
+       <option name="closed" value="true" />
+@@ -120,7 +115,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1697901757632</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="finalizing singleton implementatiom exemple pattern">
++      <option name="closed" value="true" />
++      <created>1698027844902</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1698027844902</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -128,7 +131,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="first commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
++    <MESSAGE value="finalizing singleton implementatiom exemple pattern" />
++    <option name="LAST_COMMIT_MESSAGE" value="finalizing singleton implementatiom exemple pattern" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
